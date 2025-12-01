@@ -83,3 +83,6 @@ To predict on points, we use `alpha` like so:
 $$
 f(X)=f_0(X)+K(X,X)\alpha.
 $$
+
+## Results
+![Image of KRR vs NN predictions](fits_and_rmse.png)
